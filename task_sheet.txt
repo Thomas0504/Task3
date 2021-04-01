@@ -1,0 +1,7 @@
+1. Create array of object of students  ( name age gender and marks) 
+
+2. Insert one student from the studentList.
+
+3. Adding the marks and find the average of the marks . This will we in different format.
+
+4. The above functionality in single function. The function name is arrayPrac1.
